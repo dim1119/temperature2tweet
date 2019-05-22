@@ -24,6 +24,10 @@ def get_humidity(soup):
     return soup.find_all('div', class_='lright')[1].get_text()
 
 
+def getnums(input):
+    return float(input.split(" ")[0])
+
+
 if __name__ == "__main__":
     if main() == 1:
         print("Weather Station is not reachable")
