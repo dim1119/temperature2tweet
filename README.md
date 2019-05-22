@@ -29,7 +29,7 @@ python weatherpost.py
 
 ### Built with
 * [Visual Code Studio](https://code.visualstudio.com/) - Lightweight editor supporting many languages
-* Python extension - Extension for Visaul Studio Code from Miscrosoft
+* Python extension - Extension for Visual Studio Code from Miscrosoft
 
 ### Authors
 * **Dimitris Lazarakis** - [dim1119](https://github.com/dim1119)
