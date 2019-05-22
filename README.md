@@ -14,7 +14,7 @@ access_token_secret = <key4> #(Access token secret)
 
 ### Installing
 ```
-pip install requests bs4 tweeter
+pip install requests bs4 tweepy
 ```
 
 ## Running 
